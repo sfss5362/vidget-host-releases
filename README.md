@@ -17,7 +17,11 @@
 
 **Windows**: 双击 exe, SmartScreen 提示 "未识别的发布者" 时点 **"更多信息" → "仍要运行"**, 按引导完成.
 
-装好后回到 Chrome 扩展, 任意视频页点下载按钮即可.
+装好后到以下站点的视频页, 点扩展下载按钮即可:
+
+- **YouTube** — `youtube.com`
+- **哔哩哔哩** — `bilibili.com` / `bilibili.tv` / `b23.tv`
+- **iyf.tv**
 
 ## 卸载
 
