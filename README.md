@@ -1,6 +1,6 @@
 # VidGet Pro 桌面客户端
 
-[嗅嗅 VidGet Pro](https://chromewebstore.google.com/) Chrome 扩展的配套客户端, 接收扩展嗅探到的下载任务并落盘.
+嗅嗅 VidGet Pro Chrome 扩展的配套客户端, 接收扩展嗅探到的下载任务并落盘.
 
 ## 下载
 
@@ -20,7 +20,7 @@
 装好后到以下站点的视频页, 点扩展下载按钮即可:
 
 - **YouTube** — `youtube.com`
-- **哔哩哔哩** — `bilibili.com` / `bilibili.tv` / `b23.tv`
+- **哔哩哔哩** — `bilibili.com` 
 - **iyf.tv**
 
 ## 卸载
@@ -28,7 +28,5 @@
 - macOS: `嗅嗅 VidGet Pro.app` 拖到废纸篓
 - Windows: 控制面板 → 程序与功能 → 卸载
 
-## 其它
+## 其他
 
-- [隐私政策](https://chrome-plugin-iyf-bilibili-down.netlify.app/privacy.html) — 零数据收集, 全本地处理
-- 反馈: Chrome Web Store 商店页 "开发者联系方式"
