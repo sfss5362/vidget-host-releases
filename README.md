@@ -19,9 +19,9 @@
 
 装好后到以下站点的视频页, 点扩展下载按钮即可:
 
-- **YouTube** — `youtube.com`
-- **哔哩哔哩** — `bilibili.com` 
-- **iyf.tv**
+- **YouTube** —  [youtube.com](https://youtube.com)
+- **哔哩哔哩** —  [bilibili.com](https://bilibili.com)
+- **爱壹帆** -  [iyf.tv](https://iyf.tv)
 
 ## 卸载
 
