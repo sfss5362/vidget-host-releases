@@ -1,8 +1,8 @@
-# 嗅嗅 VidGet Pro · Desktop Host
+# VidGet Pro · Desktop Host
 
 [简中](#简中) · [繁中](#繁中) · [English](#english) · [日本語](#日本語) · [한국어](#한국어) · [Русский](#русский) · [Español](#español) · [Français](#français) · [Deutsch](#deutsch)
 
-> 嗅嗅 VidGet Pro Chrome 扩展的配套桌面客户端, 接收扩展嗅探到的下载任务并落盘.
+> VidGet Pro Chrome 扩展的配套桌面客户端, 接收扩展嗅探到的下载任务并落盘.
 > Desktop host companion for the VidGet Pro Chrome extension — handles the actual downloads from sniffed media.
 
 ---
@@ -34,12 +34,13 @@
 ### 🌐 支持站点
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **哔哩哔哩** — [bilibili.com](https://bilibili.com)
 - **爱壹帆** — [iyf.tv](https://iyf.tv)
 
 ### 🗑 卸载
 
-- macOS: `嗅嗅 VidGet Pro.app` 拖到废纸篓
+- macOS: `VidGet Pro.app` 拖到废纸篓
 - Windows: 控制面板 → 程序与功能 → 卸载
 
 ---
@@ -71,12 +72,13 @@
 ### 🌐 支援網站
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **哔哩哔哩** — [bilibili.com](https://bilibili.com)
 - **爱壹帆** — [iyf.tv](https://iyf.tv)
 
 ### 🗑 解除安裝
 
-- macOS: `嗅嗅 VidGet Pro.app` 拖到垃圾桶
+- macOS: `VidGet Pro.app` 拖到垃圾桶
 - Windows: 控制台 → 程式與功能 → 解除安裝
 
 ---
@@ -108,6 +110,7 @@ Store blocked in your region? The desktop client opens a "Setup Guide" page on f
 ### 🌐 Supported Sites
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **Bilibili** — [bilibili.com](https://bilibili.com)
 - **iyf** — [iyf.tv](https://iyf.tv)
 
@@ -145,6 +148,7 @@ Store blocked in your region? The desktop client opens a "Setup Guide" page on f
 ### 🌐 対応サイト
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **bilibili** — [bilibili.com](https://bilibili.com)
 - **iyf** — [iyf.tv](https://iyf.tv)
 
@@ -182,6 +186,7 @@ Store blocked in your region? The desktop client opens a "Setup Guide" page on f
 ### 🌐 지원 사이트
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **bilibili** — [bilibili.com](https://bilibili.com)
 - **iyf** — [iyf.tv](https://iyf.tv)
 
@@ -219,6 +224,7 @@ Store blocked in your region? The desktop client opens a "Setup Guide" page on f
 ### 🌐 Поддерживаемые сайты
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **bilibili** — [bilibili.com](https://bilibili.com)
 - **iyf** — [iyf.tv](https://iyf.tv)
 
@@ -256,6 +262,7 @@ El cliente de escritorio solo no hace nada — también necesitas la extensión 
 ### 🌐 Sitios compatibles
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **bilibili** — [bilibili.com](https://bilibili.com)
 - **iyf** — [iyf.tv](https://iyf.tv)
 
@@ -293,6 +300,7 @@ Boutique bloquée dans votre région ? Le client de bureau ouvre une page « Gui
 ### 🌐 Sites pris en charge
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **bilibili** — [bilibili.com](https://bilibili.com)
 - **iyf** — [iyf.tv](https://iyf.tv)
 
@@ -330,6 +338,7 @@ Store in Ihrer Region blockiert? Der Desktop-Client öffnet beim ersten Start ei
 ### 🌐 Unterstützte Seiten
 
 - **YouTube** — [youtube.com](https://youtube.com)
+- **X (Twitter)** — [x.com](https://x.com)
 - **bilibili** — [bilibili.com](https://bilibili.com)
 - **iyf** — [iyf.tv](https://iyf.tv)
 
